@@ -1,1 +1,0 @@
-This is a configuration repository for Spring Cloud Config Server in [HerbalChem project](https://github.com/aprijal99/herbalchem).
